@@ -20,6 +20,6 @@ Implemented and compared sklearn Linear Regressor and my own custom linear regre
 ## Decision Tree
 Implement GridSearch Hyperparameter using scikit-learn to find the best hyperparameter
 
-![](images/Decision tree.png)
+![](images/KNN.png)
 
 ![](images/CNN.png)
