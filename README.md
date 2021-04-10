@@ -30,6 +30,17 @@ Implemented GridSearch Hyperparameter using scikit-learn to find the best hyperp
 ![](KNN.png)
 
 ## LSTM
+Long Short Memory using Tensorflow Library 
+![](images/LSTM.png)
 
-
+## CNN
+Novice Convolutional Neural Network using Tensorflow library
 ![](images/CNN.png)
+
+## Random Forest and Gradient Boosted Decision trees
+Implemented GridSearch Hyperparameter using scikit-learn to find the best hyperparameter in **number of estimators** and **max_depth**
+![](images/RandomForest.png)
+
+## Support Vector Machines
+Implemented GridSearch Hyperparameter using scikit-learn to find the best hyperparameter in **penalty** and **regularisation weights**
+![](images/SVM.png)
