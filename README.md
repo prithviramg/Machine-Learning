@@ -31,6 +31,7 @@ Implemented GridSearch Hyperparameter using scikit-learn to find the best hyperp
 
 ## LSTM
 Long Short Memory using Tensorflow Library 
+![](https://miro.medium.com/max/1406/1*goJVQs-p9kgLODFNyhl9zA.gif)
 ![](images/LSTM.png)
 
 ## CNN
