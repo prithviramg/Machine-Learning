@@ -35,6 +35,7 @@ Long Short Memory using Tensorflow Library
 
 ## CNN
 Novice Convolutional Neural Network using Tensorflow library
+
 ![](images/CNN.png)
 
 ## Random Forest and Gradient Boosted Decision trees
