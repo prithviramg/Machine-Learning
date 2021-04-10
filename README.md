@@ -15,11 +15,9 @@ Various Analysis
 
 ## Stochastic Gradient Descent
 Implemented and compared sklearn Linear Regressor and my own custom linear regressor.
-
-![]("images/SGD_LinearRegressor.png")
+![](images/SGD_LinearRegressor.png)
 
 ## Decision Tree
 Implement GridSearch Hyperparameter using scikit-learn to find the best hyperparameter
-
 ![](images/Decision_tree.png)
 ![](images/CNN.png)
