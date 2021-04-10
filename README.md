@@ -18,6 +18,18 @@ Implemented and compared sklearn Linear Regressor and my own custom linear regre
 ![](images/SGD_LinearRegressor.png)
 
 ## Decision Tree
-Implement GridSearch Hyperparameter using scikit-learn to find the best hyperparameter
+Implemented GridSearch Hyperparameter using scikit-learn to find the best hyperparameter in **min_samples_split** and **max_depth**
 ![](images/Decision_tree.png)
+
+## K-Means, Hierarchical, and DBSCAN Clustering
+Implemented Knee Curve Hyperparameter search using scikit-learn to find the best hyperparameter in **Number of Cluster**
+![](images/kmeans.png)
+
+## K-Nearest Neighbors
+Implemented GridSearch Hyperparameter using scikit-learn to find the best hyperparameter in **number of neighbors** and **distance function**
+![](KNN.png)
+
+## LSTM
+
+
 ![](images/CNN.png)
